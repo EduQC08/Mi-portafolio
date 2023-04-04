@@ -17,16 +17,16 @@ div{
 }
 a{
     margin: 100px;
-    color: rgb(233, 14, 14);
+    color: blue;
     font-size: 20px;
 }
 a:hover{
     color: red;
-    font-size: 70px;
+    font-size: 49px;
 }
 
 h1,h2,h3,h4,h5,h6,h7{
-    color: rgb(247, 181, 181);
+    color:blue;
     margin: 30px;
     
 }
